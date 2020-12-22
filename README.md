@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cipherhyt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![CipherHYT's github stats](https://github-readme-stats.vercel.app/api?username=cipherhyt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Check out my Discord Server!
+[![CipherH's Discord](https://i.imgur.com/oFZztDm.jpg)](https://invite.gg/cipherh)
+
 <!--
 **CipherHYT/CipherHYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
