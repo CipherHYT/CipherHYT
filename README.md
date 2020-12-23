@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is CipherH. I own a company/business known as Pointer Development. I code Discord Bot templates, websites, and more. I like integragating with Discord's API and github. Please join my Discord Server to support me and my community. Thank you! 
+
+
 
 [![CipherHYT's github stats](https://github-readme-stats.vercel.app/api?username=cipherhyt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
